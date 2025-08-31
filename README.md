@@ -2,7 +2,8 @@
 
 This is an Expense Tracker application built with React for the frontend and Node.js/Express for the backend. The app allows users to add, update, and delete their expenses, as well as view a list of expenses with the ability to filter them by month and year.It is a student target app in whicg the minimum limit is set to 500 and maximum is set to 15000, which can be changed accordingly , by this student can manage their monthly expense. Students found it difficult to manage their monthly expenses as they got a limited amount of money so by this they can manage accordingly, if the expense exceeds the limit of the budget it shows a pop up sign warning budget limit exceed.
 
- <img src="overview_img.png">
+ <img src="img 2077.jpg
+  ">
 
 ## Table of Contents
 
